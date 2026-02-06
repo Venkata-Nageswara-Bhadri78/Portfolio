@@ -134,10 +134,10 @@ export const toolStack = [
 ];
 
 export const githubUserName = "soumyajit4419";
-// export const name = "SOUMYAJIT BEHERA";
-export const name = "Soumyajit Behera";
-export const shortName = "Soumyajit";
+export const name = "Soumyajit Behera"; // Full name
+export const shortName = "Soumyajit";   // Short name
 
+// Description in HTML format along with styling (below as example)
 export const intro = [
     `I’m a Software Engineer who loves transforming ideas into reliable, scalable products. Over time, I’ve explored several technologies and found my passion in building high-performance systems and intuitive user experiences.<br/>`,
     `I’m proficient in <i><b class="purple"> JavaScript, C++, Rust, Node.js, and Java </b> </i> - and I enjoy working across both backend and frontend stacks. <br/><br/>`,
